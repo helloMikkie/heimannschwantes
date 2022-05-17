@@ -1,0 +1,15 @@
+title: Home
+
+fields:
+  gallery:
+    type: files
+    layout: cards
+    size: tiny
+    image:
+      cover: true
+      ratio: 2/1
+  text:
+    label: Intro
+    type: writer
+    size: large
+

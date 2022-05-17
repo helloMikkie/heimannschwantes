@@ -1,0 +1,16 @@
+Title: Home
+
+----
+
+Gallery:
+
+- hus1.jpg
+- hus0.jpg
+- hus5.jpg
+- hus3.jpg
+- hus2.jpg
+- hus4.jpg
+
+----
+
+Text: <p>Heimann + Schwantes is a </p><p>Berlin-based office maintaining collaborative relationships</p><p>with individuals and institutions</p><p>who value exceptional design solutions.</p><p>Founded by Michael Heimann</p><p>and Hendrik Schwantes</p><p>in 2007, the studio works in the</p><p>areas of arts, architecture,</p><p>design, business, and education.</p><p>The projects contain a wide</p><p>range of graphic media such as</p><p>books, magazines and other</p><p>printed materials as well as</p><p>branding, exhibitions and web</p><p>design.</p>
